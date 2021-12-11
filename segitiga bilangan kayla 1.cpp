@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-	int n;
-    cin >> n;
-    
+    int n;
+    cin>>n;
+   
     cout << "";
     
     if(n>0 && n<10){
